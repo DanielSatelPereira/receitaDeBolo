@@ -1,9 +1,11 @@
-1. Saudação
+Saudação
 Exibir mensagem: "Aqui vendemos bolo de cenoura. Escolha entre os sabores: cenoura."
+=======
+
 
 2. escolha entre os sabores: cenoura;
 
-verificar estoque de ingredientes: cenoura, farinha, leite, ovo, fermento, caso não tenha recomece;
+verificar estoque de ingredientes: cenoura, farinha, leite, ovo, fermento, caso não tenha recomece; 
 
 caso tenha os ingredientes, comece a fazer o bolo
 -----------------------------------------------------
@@ -75,3 +77,4 @@ caso não volte para a escolha da cobertura
 com o bolo pronto,
 pergunte ao cliente que forma de pagamento, ele fará uso, que são as seguintes: PIX, Dinheiro, Cartão de Credito ou debito
 
+Branch VIlle Nunes da Silva
