@@ -1,16 +1,52 @@
-saudação
-aqui vendemos bolo de cenoura
+1. Saudação
+Exibir mensagem: "Aqui vendemos bolo de cenoura. Escolha entre os sabores: cenoura."
 
 escolha entre os sabores: cenoura;
 
 verificar estoque de ingredientes: cenoura, farinha, leite, ovo, fermento, caso não tenha recomece;
 
 caso tenha os ingredientes, comece a fazer o bolo
+-----------------------------------------------------
+3. Modo de Preparo do Bolo de Cenoura
 
-Aqueça o forno até ficar entre 200 a 240 graus celsius após atingir 
-a temperatura correta coloque o bolo no forno;
+.Preparar os ingredientes:
 
-Quando o bolo atingir 40 minutos dentro do forno se estiver pronto retire o bolo do forno caso não espere mais 5m e fará a verificação novamente, se estiver pronto  retire, senão repita o processo
+ . Lavar e Ralar a Cenoura:
+
+
+
+. Adicionar ovos, açúcar, óleo, leite, cenoura ralada e fermento em um liquidificador ou batedeira
+
+. Bata até obter uma mistura homogênea
+
+. Após, os ingredientes liquidos na fase homogenea. Adicione no mesmo liquidificador a farinha aos poucos, batendo até misturar bem
+
+3.2. Preparar a forma:
+
+1. Com um papel toalha (especificar onde pegar )Untar a forma com óleo ou manteiga
+
+Enfarinhar a forma
+
+Preaquecer o forno:
+
+Definir temperatura entre 200°C a 240°C
+
+Preaquecer forno até atingir a temperatura correta
+
+Assar o bolo:
+
+Colocar a massa na forma e colocar a forma no forno
+
+Assar por 40 minutos
+
+Se o bolo estiver pronto após 40 minutos (verificação com palito):
+
+Retirar o bolo do forno
+
+Se não estiver pronto, esperar mais 5 minutos e verificar novamente
+
+Repetir o processo até que o palito saia seco, quer dizer que o bolo esta pronto
+-----------------------------------------------------
 
 com o bolo recém saído do forno , escolha a cobertura : chocolate
 verificar estoque de ingredientes: cacau em pó, manteiga, leite condensado, creme de leite
