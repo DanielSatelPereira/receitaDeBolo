@@ -1,7 +1,7 @@
 1. Saudação
 Exibir mensagem: "Aqui vendemos bolo de cenoura. Escolha entre os sabores: cenoura."
 
-escolha entre os sabores: cenoura;
+2. escolha entre os sabores: cenoura;
 
 verificar estoque de ingredientes: cenoura, farinha, leite, ovo, fermento, caso não tenha recomece;
 
@@ -9,43 +9,63 @@ caso tenha os ingredientes, comece a fazer o bolo
 -----------------------------------------------------
 3. Modo de Preparo do Bolo de Cenoura
 
-.Preparar os ingredientes:
+. Preparando os ingredientes:
 
- . Lavar e Ralar a Cenoura:
+  * Lave bem as cenouras em água corrente para retirar qualquer sujeira.
+
+  * Seque as cenouras com um guarnapo limpo.
+
+  *  Com o auxílio de um ralador grosso (ou uma faca), rale as cenouras até obter a quantidade necessária para a receita.
 
 
 
-. Adicionar ovos, açúcar, óleo, leite, cenoura ralada e fermento em um liquidificador ou batedeira
+. Adicionar os Ingredientes no Liquidificador ou Batedeira:
 
-. Bata até obter uma mistura homogênea
+    * No liquidificador ou batedeira, adicione os seguintes ingredientes: ovos, açúcar, óleo, leite, cenoura ralada.
 
-. Após, os ingredientes liquidos na fase homogenea. Adicione no mesmo liquidificador a farinha aos poucos, batendo até misturar bem
+    * Bata até obter uma mistura homogênea e bem incorporada (aproximadamente 2 a 3 minutos).
 
-3.2. Preparar a forma:
+    * Caso mesmo assim por esse período a mistura não ficar homogênea repita o processo novamente (por volta de 1 minuto), caso já homogênea prossiga com receita
 
-1. Com um papel toalha (especificar onde pegar )Untar a forma com óleo ou manteiga
+    
 
-Enfarinhar a forma
+. Adicionar a Farinha:
+ * Após a mistura líquida estar homogênea, adicione a farinha de trigo aos poucos.
 
-Preaquecer o forno:
+ * Bata até que a massa esteja bem misturada, cremosa e sem grumos.
 
-Definir temperatura entre 200°C a 240°C
+ * Por último, finalize com fermento em pó bata bem rápido (cerca de 30 segundo), isso evita que o bolo não cresca
 
-Preaquecer forno até atingir a temperatura correta
+. Preparar a Forma:
 
-Assar o bolo:
 
-Colocar a massa na forma e colocar a forma no forno
+ *  Untar a forma :
+    * Pegue um papel toalha (retirado de um armário ou gaveta de utensílios de cozinha) e use-o para untar a forma com óleo ou manteiga. Certifique-se de que toda a superfície da forma esteja coberta, inclusive as laterais.
 
-Assar por 40 minutos
+. Enfarinhar a Forma:
+    * Após untar a forma, adicione um pouco de farinha de trigo dentro da forma untada e gire para cobrir toda a a forma interna. Em seguida, descarte o excesso de farinha.
 
-Se o bolo estiver pronto após 40 minutos (verificação com palito):
 
-Retirar o bolo do forno
+. Preaquecer o Forno:
 
-Se não estiver pronto, esperar mais 5 minutos e verificar novamente
+   * Definir Temperatura:
+       * Defina a temperatura do forno entre 200°C a 240°C. Isso pode ser feito ajustando o controle de temperatura do forno.
 
-Repetir o processo até que o palito saia seco, quer dizer que o bolo esta pronto
+       * Deixe o forno preaquecendo até atingir a temperatura desejada. O tempo de preaquecimento geralmente leva de 10 a 15 minutos, dependendo do modelo do forno.
+
+. Assar o Bolo:
+
+    * Colocar a Massa no Forno:
+        * Despeje a massa na forma untada e enfarinhada e coloque no forno já preaquecido.
+
+    * Deixe assar por 40 Minutos. Durante esse tempo, o bolo vai crescer e dourar
+
+    * Verificação com Palito:
+        * Após 40 minutos, insira um palito de dente ou faca no centro do bolo.
+
+        * Se o palito sair seco, o bolo está pronto e pode ser retirado do forno.
+
+        * Se o palito sair molhado ou com pedaços de massa, espere mais 5 minutos e refaça a verificação novamente até que pálito/faca saia totalmente seco do bolo.
 -----------------------------------------------------
 
 com o bolo recém saído do forno , escolha a cobertura : chocolate
